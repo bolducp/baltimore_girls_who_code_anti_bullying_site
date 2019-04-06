@@ -1,0 +1,63 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+body {
+  background-color: rgba(83, 185, 209, 0.87);
+  font-family: "Open Sans", sans-serif;
+  padding: 0px 33px 84px 19px;
+  font-size: 30px;
+  margin: 0;
+  color: rgba(1, 4, 23, 0.87);
+}
+
+h1 {
+  font-family: "Arial Black",sans-serif;
+  font-size: 32px;
+  color: rgba(32, 0, 38, 0.67);
+  border: 7px solid rgb(1, 4, 23, 0.87);
+  border-radius: 20px
+}
+
+{
+  background-image: url(img_dont bully.jpg);
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat;
+}
+
+{
+  background: url(img_dont bully.jpg);
+  background-size: 100px 79px;
+  background-repeat: no-repeat;
+}
+#walk {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 90%;
+  width: 65%;
+}
+
+#stop {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 90%;
+  width: 65%;
+}
+
+.warning {
+  color: rgba(72,72,72);
+  font-size: 15px;
+}
+
+iframe {
+/*
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 90%;
+*/
+  width: 50%;
+
+}
